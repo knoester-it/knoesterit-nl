@@ -6,7 +6,7 @@ title: Robert
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Consultant, General IT Specialist, DevOps Engineer & System Integrator
 
 # Organizations/Affiliations to show in About widget
 organizations:
