@@ -108,7 +108,9 @@ copyright_license:
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
-plugins_js: []
+# plugins_js: []
+plugins_js: ["copy-code-button"]
+
 avatar:
   gravatar: false
   shape: circle

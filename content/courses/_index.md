@@ -10,3 +10,10 @@ header:
 ---
 
 I teach the following courses:
+
+```python
+[[main]]
+  name = "Docs"
+  url = "docs/"
+  weight = 50
+```
