@@ -73,8 +73,12 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Een ervaren ICT generalist (DevOps engineer/integrator/consultant) met een pragmatische aanpak en een hands-on no-nonsense mentaliteit. Iemand die graag meedenkt, adviseert en begeleid bij het maken van keuzes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bewust verschillende opdrachten/functies uitgevoerd op het gebied van ICT om zo all-round inzetbaar te zijn. Ervaring bij zowel grote enterprise omgevingen als MKB. Hierdoor veel kennis opgedaan van verschillende technieken, infrastructuur, opzetten van nieuwe omgevingen, reversed engineering, migreren en het verbeteren (performance) van bestaande omgevingen. Daarnaast veel ervaring met het maken van designs, technische ontwerpen, adviesrapporten en processen inrichten.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Mijn kracht is dat ik het overzicht goed kan houden, documenteer, gestructureerd & nauwkeurig werk, goede communicatieve vaardigheden heb, toon initiatief en pak nieuwe ontwikkelingen snel op. Bij opdrachten merk ik dat ik de go-to persoon ben (vraagbaak).
+
+Met het reguliere consultancy/systeembeheer kom je tegenwoordig niet meer weg vind ik. Je kunt je onderscheiden door flexibel te zijn, je te ontwikkelen in de veranderende markt en de behoefte van klanten. Ook door opdrachten te doen die echt bij je passen. Veel aan zelfontwikkeling doen helpt mij om dingen te doen die ik leuk vind, wat resulteert in goede kwaliteit van geleverd werk. Naar mijn idee kun je in je de huidige ICT wereld veel meerwaarde leveren als je goed weet wat de specifieke behoefte is van de klant en daarin meedenkt.
+
+{{< icon name="download" pack="fas" >}} Download mijn {{< staticref "uploads/nl/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
