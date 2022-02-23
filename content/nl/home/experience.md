@@ -29,16 +29,7 @@ experience:
     location: California
     date_start: '2021-01-03'
     date_end: '2020-01-10'
-    description: |2-
-        Werkzaamheden:
-        * Ontwerpen & implementeren van Azure services, workloads & oplossingen
-        * Leveranciers helpen om software meer cloud native te maken
-        * Maken van designs, ontwerpen, migratiedraaiboeken & documentatie
-        * Voorbereiden, testen van en uitvoeren van migraties van on-premises applicaties naar Azure workloads in samenwerking met externe partners
-        * Processen bedenken, uitwerken en doorvoeren voor de voortgang van het project
-        * Overzicht en voortgang bewaken d.m.v. DevOps (Scrum Master)
-        * Ondersteunen bij het schrijven van adoptiemateriaal.
-        
+    description: Test    
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
