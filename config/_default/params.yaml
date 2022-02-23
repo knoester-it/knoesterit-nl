@@ -113,7 +113,10 @@ plugins_js: ["copy-code-button"]
 
 avatar:
   gravatar: false
-  shape: circle
+
+# Choose a shape for avatar images. Options: circle, square.
+  shape : square
+
 publications:
   date_format: January 2006
   citation_style: apa
