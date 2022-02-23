@@ -25,7 +25,7 @@ experience:
   - title: Cloud Applicatie Migratie Specialist (Azure)
     company: VvAA
     company_url: 'https://www.vvaa.nl/'
-    company_logo: org-VvAA
+    company_logo: 
     location: California
     date_start: '2021-01-03'
     date_end: '2020-01-10'
