@@ -5,11 +5,12 @@
 
 # Appearance
 
+  day_night: true
   theme_day: minimalown
   theme_night: minimal
-  font: minimal
+  font: 'minimal'
   font_size: L
-
+  
 # SEO
 
 site_type: Person
