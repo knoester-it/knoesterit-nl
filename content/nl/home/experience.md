@@ -22,19 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: Cloud Applicatie Migratie Specialist (Azure)
+    company: VvAA
+    company_url: 'https://www.vvaa.nl/'
+    company_logo: org-VvAA
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2021-01-03'
+    date_end: '2020-01-10'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Werkzaamheden:
+        * Ontwerpen & implementeren van Azure services, workloads & oplossingen
+        * Leveranciers helpen om software meer cloud native te maken
+        * Maken van designs, ontwerpen, migratiedraaiboeken & documentatie
+        * Voorbereiden, testen van en uitvoeren van migraties van on-premises applicaties naar Azure workloads in samenwerking met externe partners
+        * Processen bedenken, uitwerken en doorvoeren voor de voortgang van het project
+        * Overzicht en voortgang bewaken d.m.v. DevOps (Scrum Master)
+        * Ondersteunen bij het schrijven van adoptiemateriaal.
         
   - title: Professor of Semiconductor Physics
     company: University X
