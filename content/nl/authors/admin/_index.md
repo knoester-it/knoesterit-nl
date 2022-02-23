@@ -82,10 +82,10 @@ highlight_name: true
 
 Een ervaren ICT generalist (DevOps engineer/integrator/consultant) met een pragmatische aanpak en een hands-on no-nonsense mentaliteit. Iemand die graag meedenkt, adviseert en begeleid bij het maken van keuzes.
 
-Bewust verschillende opdrachten/functies uitgevoerd op het gebied van ICT om zo all-round inzetbaar te zijn. Ervaring bij zowel grote enterprise omgevingen als MKB. Hierdoor veel kennis opgedaan van verschillende technieken, infrastructuur, opzetten van nieuwe omgevingen, reversed engineering, migreren en het verbeteren (performance) van bestaande omgevingen. Daarnaast veel ervaring met het maken van designs, technische ontwerpen, adviesrapporten en processen inrichten.
+Met het reguliere consultancy kom je tegenwoordig niet meer weg vind ik. Je kunt je onderscheiden door flexibel te zijn, je te ontwikkelen in de veranderende markt en de behoefte van klanten. Ook door opdrachten te doen die echt bij je passen. Veel aan zelfontwikkeling doen helpt mij om dingen te doen die ik leuk vind, wat resulteert in goede kwaliteit van geleverd werk. Naar mijn idee kun je in je de huidige ICT wereld veel meerwaarde leveren als je goed weet wat de specifieke behoefte is van de klant en daarin meedenkt.
+
+Veel kennis opgedaan van verschillende technieken, Cloud oplossingen (Azure), infrastructuur, opzetten van nieuwe omgevingen, reversed engineering, migreren en het verbeteren (performance) van bestaande omgevingen. Daarnaast veel ervaring met het maken van designs, technische ontwerpen, adviesrapporten en processen inrichten.
 
 Mijn kracht is dat ik het overzicht goed kan houden, documenteer, gestructureerd & nauwkeurig werk, goede communicatieve vaardigheden heb, toon initiatief en pak nieuwe ontwikkelingen snel op. Bij opdrachten merk ik dat ik de go-to persoon ben (vraagbaak).
-
-Met het reguliere consultancy/systeembeheer kom je tegenwoordig niet meer weg vind ik. Je kunt je onderscheiden door flexibel te zijn, je te ontwikkelen in de veranderende markt en de behoefte van klanten. Ook door opdrachten te doen die echt bij je passen. Veel aan zelfontwikkeling doen helpt mij om dingen te doen die ik leuk vind, wat resulteert in goede kwaliteit van geleverd werk. Naar mijn idee kun je in je de huidige ICT wereld veel meerwaarde leveren als je goed weet wat de specifieke behoefte is van de klant en daarin meedenkt.
 
 {{< icon name="download" pack="fas" >}} Download mijn {{< staticref "uploads/nl/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
