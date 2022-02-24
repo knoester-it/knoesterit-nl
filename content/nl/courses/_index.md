@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Learn
 type: page
 
 view: 2
@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+Leer over de volgende onderdelen:
 
 ```python
 [[main]]

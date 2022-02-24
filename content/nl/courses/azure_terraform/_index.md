@@ -1,25 +1,13 @@
 ---
-# Course title, summary, and position.
-linktitle: Terraform | Azure DevOps
+title: Terraform gebruiken met Azure DevOps
+linkTitle: Terraform | Azure DevOps
 summary: Waarom Terraform, wat is het en wat kan het?
-weight: 1
-
-# Page metadata.
-title: Terraform | Azure DevOps
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  azure_terraform:
-    name: Terraform | Azure DevOps
-    weight: 2
+date: '2021-01-24'
+type: book
 ---
+
+
+{{< toc hide_on="xl" >}}
 
 👋 Welkom!
 ## Waar ga je over leren
@@ -54,3 +42,7 @@ Deze video heeft helaas geen hoofdstukken dus heb ik in de onderstaande tabel sn
 | [Terraform pre-requisites](https://youtu.be/AWXOYS-SBfY?t=2510) |
 | [DevOps Pipleines](https://youtu.be/AWXOYS-SBfY?t=2930) |
 | [DevOps Branch Policy](https://youtu.be/AWXOYS-SBfY) |
+
+## Onderdelen
+
+{{< list_children >}}
