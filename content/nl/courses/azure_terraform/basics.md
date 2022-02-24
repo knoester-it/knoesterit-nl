@@ -12,6 +12,7 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
+
 ---
 
 Wat heb je nodig?
@@ -48,14 +49,6 @@ Open het project en klik op {{<hl>}}Repos{{</hl>}}
 
 Selecteer bij 'Add a .gitignore:' {{<hl>}}Terraform{{</hl>}} en klik op 'Initialize'
 {{<figure library="true" src="azure-terraform/TFGitignoreEdit.jpg" title="Initialize main branch">}}
-
-<!-- Embed video
-
-https://discourse.gohugo.io/t/embedding-local-video-in-static-img-or-page-folder-to-website/20220
-
-Example:
-{{<video library="1" src="azure-terraform/TFGitignoreEdit.mp4" controle="yes">}}
--->
 
 ### Service Connection
 Om je pipeline tasks rechten te geven op services heb je een service connection nodig.
