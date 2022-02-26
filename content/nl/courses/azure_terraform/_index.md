@@ -6,6 +6,7 @@ date: '2021-01-24'
 type: book
 ---
 
+{{< figure src="featured.jpg" >}}{{< figure src="featured.png" >}}
 
 {{< toc hide_on="xl" >}}
 

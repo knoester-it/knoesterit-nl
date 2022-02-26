@@ -14,7 +14,7 @@ organizations:
   url: https://knoester-it.online
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cloud, automation, infrastructure, connectivity, IT strategies, advice & work-life integration.
+bio: My interests include Cloud, automation, infrastructure, connectivity, IT strategies, advice & work-life integration.
 
 # Interests to show in About widget
 interests:
