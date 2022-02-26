@@ -1,24 +1,11 @@
 ---
-# Course title, summary, and position.
-linktitle: Azure SQL Solutions
+title: Azure SQL Solutions
+linkTitle: Azure SQL Solutions
 summary: Informatie over verschillende SQL oplossingen binnen Azure.
 weight: 1
-
-# Page metadata.
-title: Azure SQL Solutions
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  azure_sql:
-    name: Azure SQL Solutions
-    weight: 1
+date: '2021-01-24'
+type: book
+weight: 1
 ---
 ## Doel en aanpak onderzoek
 Er zijn verschillende oplossingen binnen Azure beschikbaar om MsSQL databases aan te kunnen bieden.
