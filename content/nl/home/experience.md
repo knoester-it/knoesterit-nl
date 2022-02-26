@@ -30,7 +30,7 @@ experience:
     date_start: '2022-01-02'
     date_end: ''
     description: |2-
-        Helping with a application migration project towards a more secure environment. The project has three objectives:
+        Helping with an application migration project towards a more secure environment. The project has three objectives:
         * More secure environment
         * Life Cycle Management
         * Automate as much as possible.
