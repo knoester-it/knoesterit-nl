@@ -31,13 +31,13 @@ experience:
     date_end: ''
     description: |2-
         Helping with a application migration project towards a more secure environment. The project has three objectives:
-        *More secure environment
-        *Life Cycle Management
-        *Automate as much as possible.
+        * More secure environment
+        * Life Cycle Management
+        * Automate as much as possible.
         Activities
-        *Defining Application Profiles for CISCO ACI
-        *Getting the information needed for application flows
-        *Implementing Application profiles.
+        * Defining Application Profiles for Cisco ACI
+        * Getting the information needed for application flows
+        * Implementing Application profiles.
   - title: Cloud Applicatie Migratie Specialist (Azure)
     company: VvAA
     company_url: 'https://vvaa.nl/'
