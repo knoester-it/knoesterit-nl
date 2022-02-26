@@ -34,7 +34,8 @@ experience:
         * More secure environment
         * Life Cycle Management
         * Automate as much as possible.
-        Activities
+        
+        Activities:
         * Defining Application Profiles for Cisco ACI
         * Getting the information needed for application flows
         * Implementing Application profiles.
