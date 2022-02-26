@@ -10,10 +10,3 @@ header:
 ---
 
 Leer over de volgende onderdelen:
-
-```python
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```

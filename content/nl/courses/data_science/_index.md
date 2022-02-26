@@ -4,6 +4,7 @@ linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
+weight: 10
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -23,10 +24,6 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 ## Courses in this program
 
 {{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
 
 ## FAQs
 

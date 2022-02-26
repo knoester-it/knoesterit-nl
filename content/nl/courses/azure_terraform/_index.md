@@ -4,6 +4,7 @@ linkTitle: Terraform | Azure DevOps
 summary: Waarom Terraform, wat is het en wat kan het?
 date: '2021-01-24'
 type: book
+weight: 1
 ---
 
 {{< figure src="featured.jpg" >}}{{< figure src="featured.png" >}}
