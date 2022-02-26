@@ -56,7 +56,61 @@ experience:
         * Voorbereiden, testen van en uitvoeren van migraties van on-premises applicaties naar Azure workloads in samenwerking met externe partners
         * Processen bedenken, uitwerken en doorvoeren voor de voortgang van het project
         * Overzicht en voortgang bewaken d.m.v. DevOps (Scrum Master)
-        * Ondersteunen bij het schrijven van adoptiemateriaal.        
+        * Ondersteunen bij het schrijven van adoptiemateriaal.
+        - title: Senior Engineer/Consultant Infrastructure
+    company: Rijkswatersaat
+    company_url: 'https://www.rijkswaterstaat.nl/'
+    location: Rotterdam
+    date_start: '2019-05-01'
+    date_end: '2019-12-31'
+    description: |2-
+        Werkzaamheden:
+        * NSX & algemene connectiviteit van en naar het datacenter;
+        * Onderhoud en zorgdragen dat de NSX FW ruleset compliant wordt/blijft;
+        * Advies bij complexe leveringen in het datacenter;
+        * Gegevensstromen inzichtelijk maken;
+        * Automation & more.
+        
+  - title: Engineer Infra/Windows/NSX
+    company: Rijkswatersaat
+    company_url: 'https://www.rijkswaterstaat.nl/'
+    location: Rotterdam
+    date_start: '2017-07-01'
+    date_end: '2018-11-01'
+    description: Meedenken aan processen/procesverbeteringen t.b.v. complexe leveringen voor klanten, hieronder vielen verschillende componenten waardoor er een PaaS oplossing werd neergezet voor klanten binnen Rijkswaterstaat. System integrator; De afdeling Windows-Hosting fungeerde als vraagbaak/ system integrator voor meerdere bedrijfsonderdelen.
+
+  - title: Transitie Technisch keten beheer
+    company: Ordina
+    company_url: 'https://www.ordina.nl/'
+    location: Utrecht
+    date_start: '2016-12-01'
+    date_end: '2017-06-01'
+    description: Het documenteren, presenteren en overdragen van beheertaken en projecttaken aangaande TAB-WEB werkzaamheden van Rijkswaterstaat naar de Ordina Technische Keten Beheer Afdeling.
+
+  - title: Technisch Applicatie beheerder Web applicaties
+    company: Ordina
+    company_url: 'https://www.ordina.nl/'
+    location: Utrecht
+    date_start: '2016-06-01'
+    date_end: '2016-12-01'
+    description: System Integrator, beheren van applicaties en begeleiden van applicatiemigraties en changes. Vertaalslag maken van klantwensen, uitwerken naar technische oplossingen en aansturing van leveranciers. Bestaande applicaties inventariseren, uitzoeken hoe deze werken en inzichtelijk maken hoe de applicaties werken.
+
+  - title: Senior Virtualisatie Specialist
+    company: SSC-ICT
+    company_url: 'https://www.ssc-ict.nl/'
+    location: Den Haag
+    date_start: '2015-12-01'
+    date_end: '2016-06-01'
+    description: Als Specialist ben je verantwoordelijk voor de deelplanning, inventarisatie, voorbereiding, ontwerp, inrichting en uitvoering van de gevirtualiseerde omgevingen en migraties van deze omgevingen die momenteel binnen het SSC-ICT worden uitgevoerd.
+
+  - title: Freelance IT Specialist
+    company: Knoester-IT Solutions
+    company_url: 'https://knoester-it.online'
+    location: Ulvenhout
+    date_start: '2014-07-01'
+    date_end: ''
+    description: Freelance IT engineer bij verschillende bedrijven, Office 365 implementaties, advies en projecten.
+
 
 design:
   columns: '2'
