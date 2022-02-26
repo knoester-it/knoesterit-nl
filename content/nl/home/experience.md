@@ -22,12 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Stack DevOps Engineer
+    company: Itility
+    company_url: 'https://itility.nl/'
+    company_logo: ''
+    location: Eindhoven
+    date_start: '2022-01-02'
+    date_end: ''
+    description: |2-
+        Helping with a application migration project towards a more secure environment. The project has three objectives:
+        *More secure environment
+        *Life Cycle Management
+        *Automate as much as possible.
+        Activities
+        *Defining Application Profiles for CISCO ACI
+        *Getting the information needed for application flows
+        *Implementing Application profiles.
   - title: Cloud Applicatie Migratie Specialist (Azure)
     company: VvAA
-    company_url: 'https://www.vvaa.nl/'
+    company_url: 'https://vvaa.nl/'
 #    company_logo: 
 # see assets\media\icons\brands
-    location: California
+    location: Utrecht
     date_start: '2021-01-03'
     date_end: '2020-01-10'
     description: |2-
@@ -39,14 +55,6 @@ experience:
         * Processen bedenken, uitwerken en doorvoeren voor de voortgang van het project
         * Overzicht en voortgang bewaken d.m.v. DevOps (Scrum Master)
         * Ondersteunen bij het schrijven van adoptiemateriaal.        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
