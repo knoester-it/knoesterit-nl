@@ -111,9 +111,6 @@ experience:
     date_start: '2014-07-01'
     date_end: ''
     description: Freelance IT engineer bij verschillende bedrijven, Office 365 implementaties, advies en projecten.
----
-
-
 
 design:
   columns: '2'
