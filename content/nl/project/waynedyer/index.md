@@ -19,7 +19,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=7SnWOTDykAc"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,5 +32,3 @@ url_video: ""
 WAYNE W. DYER was an internationally renowned author and speaker in the fields of self-development and spiritual growth. Over the four decades of his career, he wrote more than 40 books, including 21 New York Times bestsellers. He created many audio and video programs, and appeared on thousands of television and radio shows.
 
 https://www.drwaynedyer.com/wayne-dyer-quotes/
-
-https://www.youtube.com/watch?v=7SnWOTDykAc
