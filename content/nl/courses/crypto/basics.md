@@ -20,7 +20,7 @@ Crypto verkoopt over het algemeen de unique selling point dat het allemaal gedec
 
 >Let op! Dat is dus niet het geval wanneer de centrale banken met een digitale munt komen... dan kan er wel worden bepaald waar jij je geld aan uit moet geven.
 
-Iedere Crypto BlockChain heeft ook eigen unique selling points. In de basis heb je BitCoin en deze code is gekopieerd en aangepast door andere Crypto platformen (dat zijn [ALT Coins](https://btcdirect.eu/nl-nl/altcoins#:~:text=Het%20woord%20altcoin%20bestaat%20uit,ook%20terug%20in%20de%20koers.)).
+Iedere Crypto BlockChain heeft ook eigen unique selling points. In de basis heb je BitCoin en deze code is gekopieerd en aangepast door andere Crypto platformen (dat zijn [ALT Coins](https://btcdirect.eu/nl-nl/altcoins#:~:text=Het%20woord%20altcoin%20bestaat%20uit,ook%20terug%20in%20de%20koers.)). Ook zijn er ALT Coins die een geheel eigen code hebben bedacht.
 
 {{< callout note >}}
 De waarde van BitCoin wordt vooral bepaald door de schaarste. Waarbij de waarde van Ethereum ([ALT Coin](https://btcdirect.eu/nl-nl/altcoins#:~:text=Het%20woord%20altcoin%20bestaat%20uit,ook%20terug%20in%20de%20koers.)) wordt bepaald door het grootschalig gebruik van de toepassingen ([Smart Contracts](https://btcdirect.eu/nl-nl/wat-zijn-smart-contracts#:~:text=Een%20smart%20contract%20is%20een,verifi%C3%ABren%20of%20af%20te%20dwingen.)).
