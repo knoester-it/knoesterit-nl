@@ -7,6 +7,9 @@ main:
 #  - name: Demo
 #    url: '#about'
 #    weight: 10
+  - name: Home
+    url: '#about'
+    weight: 10
   - name: Posts
     url: '#posts'
     weight: 20
@@ -25,3 +28,9 @@ main:
  # - name: Contact
  #   url: '#contact'
  #   weight: 70
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+  - name: "CV"
+    url: "media/nl/cv.pdf"
+    weight: 70
