@@ -79,21 +79,17 @@ experience:
     date_end: '2018-11-01'
     description: Meedenken aan processen/procesverbeteringen t.b.v. complexe leveringen voor klanten, hieronder vielen verschillende componenten waardoor er een PaaS oplossing werd neergezet voor klanten binnen Rijkswaterstaat. System integrator; De afdeling Windows-Hosting fungeerde als vraagbaak/ system integrator voor meerdere bedrijfsonderdelen.
 
-  - title: Transitie Technisch keten beheer
-    company: Ordina
-    company_url: 'https://www.ordina.nl/'
-    location: Utrecht
-    date_start: '2016-12-01'
-    date_end: '2017-06-01'
-    description: Het documenteren, presenteren en overdragen van beheertaken en projecttaken aangaande TAB-WEB werkzaamheden van Rijkswaterstaat naar de Ordina Technische Keten Beheer Afdeling.
-
-  - title: Technisch Applicatie beheerder Web applicaties
+  - title: Technisch Applicatie Beheer | Transitie Outsourcing
     company: Ordina
     company_url: 'https://www.ordina.nl/'
     location: Utrecht
     date_start: '2016-06-01'
-    date_end: '2016-12-01'
-    description: System Integrator, beheren van applicaties en begeleiden van applicatiemigraties en changes. Vertaalslag maken van klantwensen, uitwerken naar technische oplossingen en aansturing van leveranciers. Bestaande applicaties inventariseren, uitzoeken hoe deze werken en inzichtelijk maken hoe de applicaties werken.
+    date_end: '2017-06-01'
+    description: |2-
+        Werkzaamheden Transitie Technisch keten beheer:
+        * Het documenteren, presenteren en overdragen van beheertaken en projecttaken aangaande TAB-WEB werkzaamheden van Rijkswaterstaat naar de Ordina Technische Keten Beheer Afdeling.
+        Werkzaamheden Technisch Applicatie beheerde Web applicaties:
+        * System Integrator, beheren van applicaties en begeleiden van applicatiemigraties en changes. Vertaalslag maken van klantwensen, uitwerken naar technische oplossingen en aansturing van leveranciers. Bestaande applicaties inventariseren, uitzoeken hoe deze werken en inzichtelijk maken hoe de applicaties werken.
 
   - title: Senior Virtualisatie Specialist
     company: SSC-ICT

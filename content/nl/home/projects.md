@@ -12,8 +12,8 @@ active: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Books
-subtitle: ''
+title: Books, People & Podcasts
+subtitle: 'Inspiration'
 
 content:
   # Page type to display. E.g. project.
@@ -30,10 +30,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Books
+    tag: Growth
+  - name: People
+    tag: People
+  - name: Podcasts
+    tag: Podcasts
+  - name: Productivity
+    tag: Productivity
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
