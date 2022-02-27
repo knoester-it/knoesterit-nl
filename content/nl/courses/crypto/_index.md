@@ -6,7 +6,7 @@ date: '2021-01-24'
 type: book
 ---
 
-![crypto-coins](crypto.-coins.jpg "Photo by Worldspectrum from Pexels")
+![crypto-coins](featured.jpg "Photo by Worldspectrum from Pexels")
 
 {{< toc hide_on="xl" >}}
 
