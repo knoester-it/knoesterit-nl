@@ -7,6 +7,8 @@ date: '2021-01-24'
 type: book
 weight: 1
 ---
+{{< figure src="featured.jpg" >}}
+
 ## Doel en aanpak onderzoek
 Er zijn verschillende oplossingen binnen Azure beschikbaar om MsSQL databases aan te kunnen bieden.
 
