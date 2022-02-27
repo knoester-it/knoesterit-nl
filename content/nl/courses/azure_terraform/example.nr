@@ -6,3 +6,5 @@ Example:
 {{<video library="1" src="azure-terraform/TFGitignoreEdit.mp4" controle="yes">}}
 -->
 
+# Link with Icon
+{{< icon name="download" pack="fas" >}} Download mijn {{< staticref "uploads/nl/cv.pdf" "newtab" >}}cv{{< /staticref >}}.

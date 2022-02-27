@@ -21,3 +21,4 @@ menu:
     weight: 3
 ---
 
+{{< figure src="featured.png" >}}
