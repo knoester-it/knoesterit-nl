@@ -27,7 +27,7 @@ experience:
     company_url: 'https://itility.nl/'
     company_logo: ''
     location: Eindhoven
-    date_start: '2022-01-02'
+    date_start: '2022-02-01'
     date_end: ''
     description: |2-
         Helping with an application migration project towards a more secure environment. The project has three objectives:
