@@ -10,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Image from https://gettingthingsdone.com/
+  caption: Image credit [**Unsplash**](https://gettingthingsdone.com/)
   focal_point: Smart
 
 links:

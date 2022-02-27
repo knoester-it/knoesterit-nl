@@ -53,10 +53,10 @@ feature:
   icon: tools
   icon_pack: fas
   name: Migration
-- description: 90%
-  icon: glasses
-  icon_pack: fas
-  name: Complex Infrastructures
+#- description: 90%
+#  icon: glasses
+#  icon_pack: fas
+#  name: Complex Infrastructures
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
