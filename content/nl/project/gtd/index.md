@@ -1,5 +1,5 @@
 ---
-title: Getting Thing Done
+title: Getting Things Done
 summary: YOUR MIND IS FOR HAVING IDEAS, NOT HOLDING THEM.
 tags:
 - Productivity
