@@ -20,5 +20,3 @@ menu:
     name: Azure Connectivity Solutions
     weight: 3
 ---
-
-{{< figure src="featured.png" >}}
