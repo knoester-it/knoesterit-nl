@@ -30,7 +30,7 @@ Om een keuze te maken welke het geïmplementeerd zou kunnen worden is hieronder 
 
 | Beschikbare opties | SQL databases | SQL managed instances | SQL virtual machines |
 |----|----|----|----|
-| Best toepasbaar voor | {{<figure library="true" src="./uploads/azure_sql/sql-db.png" title="Azure SQL Database">}} | {{<figure library="true" src="azure_sql/sql-managed-instance.png" title="Azure SQL Managed Instance">}} | {{<figure library="true" src="./uploads/azure_sql/sql-vm.png" title="Azure SQL VM">}} |
+| Best toepasbaar voor | {{<figure library="true" src="azure_sql/sql-db.png" title="Azure SQL Database">}} | {{<figure library="true" src="azure_sql/sql-managed-instance.png" title="Azure SQL Managed Instance">}} | {{<figure library="true" src="azure_sql/sql-vm.png" title="Azure SQL VM">}} |
 
 | Beschikbare opties | SQL databases | SQL managed instances | SQL virtual machines |
 |----|----|----|----|
