@@ -57,7 +57,22 @@ experience:
         * Processen bedenken, uitwerken en doorvoeren voor de voortgang van het project
         * Overzicht en voortgang bewaken d.m.v. DevOps (Scrum Master)
         * Ondersteunen bij het schrijven van adoptiemateriaal.
-        - title: Senior Engineer/Consultant Infrastructure
+  
+  - title: Cloud & automation engineer
+    company: Rijkswaterstaat
+    company_url: 'https://www.rijkswaterstaat.nl/'
+    location: Rotterdam
+    date_start: '2020-01-01'
+    date_end: '2020-12-01'
+    description: |2-
+        Werkzaamheden:
+        * Virtuele Datacenter (VDC) ontwikkelingen
+        * Platform ontwerp
+        * BIO normen (security)
+        * Deploying
+        * Cloud: Azure, DevOps, Azure CLI, ARM, Powershell, Terraform, Ansible, Gitlab, NSX & more.
+
+  - title: Senior Engineer/Consultant Infrastructure
     company: Rijkswatersaat
     company_url: 'https://www.rijkswaterstaat.nl/'
     location: Rotterdam
