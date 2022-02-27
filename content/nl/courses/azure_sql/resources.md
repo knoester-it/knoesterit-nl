@@ -28,5 +28,5 @@ weight: 4
 - [Microsoft Learn](https://docs.microsoft.com/nl-nl/learn/browse/?products=azure%2Csql-server%2Cwindows-server&terms=sql)
 
 **Een beveiligde omgeving implementeren voor een databaseservice:**
-[Microsoft Learn](https://docs.microsoft.com/nl-nl/learn/paths/implement-secure-environment-database-service/)
+- [Microsoft Learn](https://docs.microsoft.com/nl-nl/learn/paths/implement-secure-environment-database-service/)
 
