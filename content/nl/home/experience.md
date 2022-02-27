@@ -88,7 +88,8 @@ experience:
     description: |2-
         Werkzaamheden Transitie Technisch keten beheer:
         * Het documenteren, presenteren en overdragen van beheertaken en projecttaken aangaande TAB-WEB werkzaamheden van Rijkswaterstaat naar de Ordina Technische Keten Beheer Afdeling.
-        Werkzaamheden Technisch Applicatie beheerde Web applicaties:
+        
+        Werkzaamheden Technisch Applicatie beheerder Web applicaties:
         * System Integrator, beheren van applicaties en begeleiden van applicatiemigraties en changes. Vertaalslag maken van klantwensen, uitwerken naar technische oplossingen en aansturing van leveranciers. Bestaande applicaties inventariseren, uitzoeken hoe deze werken en inzichtelijk maken hoe de applicaties werken.
 
   - title: Senior Virtualisatie Specialist
