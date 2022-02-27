@@ -2,7 +2,7 @@
 title: The Shift
 summary: The Shift—illustrates how and why to make the move from ambition to meaning.
 tags:
-- Growth
+- Books
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

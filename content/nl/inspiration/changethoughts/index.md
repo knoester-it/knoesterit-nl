@@ -2,7 +2,7 @@
 title: Change Your Thoughts - Change Your Life
 summary: Living the Wisdom of the Tao
 tags:
-- Growth
+- Books
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

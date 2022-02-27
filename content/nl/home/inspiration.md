@@ -31,7 +31,7 @@ content:
   - name: All
     tag: '*'
   - name: Books
-    tag: Growth
+    tag: Books
   - name: People
     tag: People
   - name: Podcasts
