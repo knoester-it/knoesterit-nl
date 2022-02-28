@@ -9,52 +9,28 @@ Nu de TF backend bestanden zijn aangemaakt kunnen we de Plan & Status Check Buil
 
 <!--more-->
 
-## Key vault
+## Build Pipelines
+We importeren de YAML files van de build pipelines.
 
-### Secrets
-Voeg de volgende secrets toe aan de key vault
-| Naam | Waarde |
-|--|--|
-| terraform-azdevops-spn-client-id | *** |
-| terraform-azdevops-spn-object-id | *** |
-| terraform-azdevops-spn-secret | *** |
-| terraform-azdevops-spn-tenant-id | *** |
-| stateterraform001-key1 | *** |
-| stateterraform001-key2 | *** |
+Als je een beter beeld wilt krijgen van wat er gebeurt bekijk dan de volgende [video](https://www.youtube.com/watch?v=AWXOYS-SBfY&t=2930s)
 
-### SPN gegevens opvragen
-Wanneer je automatisch de service connection hebt laten aanmaken wordt de naam automatisch gegenereerd. Ook krijg je dan niet de secret te zien, hiervoor kun je dan een nieuwe secret aanmaken. 
+Volg deze stappen om de pipelines te importeren:
 
-Ga hiervoor vanuit DevOps naar {{<hl>}}Project Settings{{</hl>}}
-- Klik op {{<hl>}}Service Connections{{</hl>}} > {{<hl>}}Manage Service Principal{{</hl>}}
+- Ga in Azure DevOps naar {{<hl>}}Pipelines{{</hl>}} en klik op {{<hl>}}New pipeline{{</hl>}} of {{<hl>}}Create Pipeline{{</hl>}}
+{{<figure library="true" src="azure-terraform/pipelinecreate.png" title="Create Pipeline">}}
 
-{{<figure library="true" src="azure-terraform/manageserviceprincipal.png" title="Manage Service Principal">}}
+- Selecteer in dit geval  {{<hl>}}Azure Repos{{</hl>}} > De aangemaakt repo en kies voor {{<hl>}}Existing Azure Pipelines YAML file{{</hl>}}
 
-Je komt dan in de Azure Portal terecht.
+Selecteer de desbetreffende YAML file(s) vanuit de pipeline folder
+- tfplan.yml
+- tfstatuscheck.yml
 
-- Klik op {{<hl>}}Certificates & secret{{</hl>}}
-- Klik op {{<hl>}}New Client secret{{</hl>}}
-Geef de gewenste description op: Terraform-AzDevOps
-{{<figure library="true" src="azure-terraform/spnsecret.png" title="Add client secret">}}
-- Kopieer de secret.
+Na de imports kun je de pipelines hernoemen naar wat je wilt, ik heb voor het volgende gekozen:
+- Terraform Plan
+- Terraform Status check (Validate & Plan - No Out File)
 
->Let op! Deze waarde krijg je maar 1-malig te zien dus zet deze meteen in de key vault.
+{{<figure library="true" src="azure-terraform/visualstudiocommit.png" title="Commit Visual Studio Code">}}
 
-- Kopieer ook vanuit hier de overige gevens en zet deze in key vault.
+### Plan
 
-### Storage aacount keys opvragen
-Ga in de Azure portal naar het storage account > klik op {{<hl>}}Access keys{{</hl>}} en hier vervolgens op {{<hl>}}Show keys{{</hl>}}.
 
-Kopieer de keys en zet ze in key vault.
-
->Let op! Het is veiliger om te werken key rotation, meer info hierover in [Additional info](https://knoester-it.online/courses/azure-terraform/additional/)
-
-## Access policies
-Om je Service connection rechten te geven op de secrets ga je de access policies aanpassen van de key vault.
-
-- Ga naar de key vault in Azure en klik onder settings op {{<hl>}}Access policies{{</hl>}}
-- Klik op {{<hl>}}Add Acces Policy{{</hl>}}
-
-{{<figure library="true" src="azure-terraform/kvaccesspolicy.png" title="Add access policy">}}
-
-- Selecteer de SPN > Klik op {{<hl>}}Add{{</hl>}} en vergeet niet op {{<hl>}}Save{{</hl>}} te klikken.

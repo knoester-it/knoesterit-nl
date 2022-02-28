@@ -63,6 +63,7 @@ provider "azurerm" {
 
 ### Upload de code naar Azure Repo
 Upload de code naar Azure DevOps door via Visual Studio Code > Source Control op Commit (vinkje) te klikken:
-{{<figure library="true" src="azure-terraform/visualstudiosync.png" title="Commit Visual Studio Code">}}
+{{<figure library="true" src="azure-terraform/visualstudiocommit.png" title="Commit Visual Studio Code">}}
 
 Klik vervolgens op {{<hl>}}Sync Changes{{</hl>}} om het te uploaden naar DevOps.
+{{<figure library="true" src="azure-terraform/visualstudiosync.png" title="Sync Visual Studio Code">}}

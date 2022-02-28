@@ -58,3 +58,12 @@ Om je Service connection rechten te geven op de secrets ga je de access policies
 {{<figure library="true" src="azure-terraform/kvaccesspolicy.png" title="Add access policy">}}
 
 - Selecteer de SPN > Klik op {{<hl>}}Add{{</hl>}} en vergeet niet op {{<hl>}}Save{{</hl>}} te klikken.
+
+## Vaiable groups
+Om gebruik te maken van de variabelen en de key vault waardes uit te lezen gaan we eerst een variabele groep aanmaken.
+
+- Ga in Azure DevOps naar {{<hl>}}Pipelines{{</hl>}} > {{<hl>}}Library{{</hl>}}
+{{<figure library="true" src="azure-terraform/variabelegroup.png" title="Library">}}
+
+- Klik op {{<hl>}}+ Variable Group{{</hl>}} en selecteer onderstaande opties (of eigen waarden die je hebt gekozen).
+{{<figure library="true" src="azure-terraform/variabelegroupadd.png" title="Library">}}
