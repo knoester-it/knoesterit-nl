@@ -2,7 +2,7 @@
 title: Additional info
 date: '2021-01-01'
 type: book
-weight: 40
+weight: 100
 ---
 
 Wat heb je nodig?

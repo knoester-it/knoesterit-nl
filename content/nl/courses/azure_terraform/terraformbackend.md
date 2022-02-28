@@ -9,18 +9,24 @@ Nu je alle bendogide resources en configuraties hebt gedaan gaan we aan de slag 
 
 <!--more-->
 
-## Key vault
+## Terraform backend
 
-### Secrets
-Voeg de volgende secrets toe aan de key vault
-| Naam | Waarde |
-|--|--|
-| terraform-azdevops-spn-client-id | *** |
-| terraform-azdevops-spn-object-id | *** |
-| terraform-azdevops-spn-secret | *** |
-| terraform-azdevops-spn-tenant-id | *** |
-| stateterraform001-key1 | *** |
-| stateterraform001-key2 | *** |
+### Clone repository
+- Ga naar Azure Devops, open het project en klik op {{<hl>}}Repos{{</hl>}}
+- Klik rechtsbovenin op {{<hl>}}Clone{{</hl>}}
+- Klik vervolgens op {{<hl>}}Clone in VS Code{{</hl>}}
+
+{{<figure library="true" src="azure-terraform/repoclone.png" title="Clone in Visual Studio Code">}}
+
+- Geef toestemming om te openen met {{<hl>}}Visual Studio Code{{</hl>}}
+- Geef het pad op waar je wilt opslaan.
+
+Je hebt nu de repository geopend in {{<hl>}}Visual Studio Code{{</hl>}}
+{{<figure library="true" src="azure-terraform/visualstudio.png" title="isual Studio Code">}}
+
+- Kopieer nu de bestanden uit |REPOSITORY VOORBEELD|
+
+- 
 
 ### SPN gegevens opvragen
 Wanneer je automatisch de service connection hebt laten aanmaken wordt de naam automatisch gegenereerd. Ook krijg je dan niet de secret te zien, hiervoor kun je dan een nieuwe secret aanmaken. 

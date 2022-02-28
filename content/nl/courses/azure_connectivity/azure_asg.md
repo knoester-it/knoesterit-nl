@@ -1,17 +1,8 @@
 ---
 title: Application Sec. Groups (ASG)
-linktitle: Application Sec. Groups (ASG)
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: false
-menu:
-  azure_connectivity:
-    parent: Azure Connectivity Solutions
-    weight: 1
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+date: '2021-01-01'
+type: book
+weight: 10
 ---
 
 ## Introductie

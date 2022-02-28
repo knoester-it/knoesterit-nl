@@ -1,17 +1,8 @@
 ---
 title: SQL Migration options
-linktitle: SQL Migration options
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: false
-menu:
-  azure_sql:
-    parent: Azure SQL Solutions
-    weight: 2
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+date: '2021-01-01'
+type: book
+weight: 20
 ---
 
 Er zijn verschillende migratie scenario's mogelijk voor het migreren van SQL databases. Hieronder staan er een paar beschreven.
