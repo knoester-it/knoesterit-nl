@@ -29,7 +29,6 @@ Na de imports kun je de pipelines hernoemen naar wat je wilt, ik heb voor het vo
 - Terraform Plan
 - Terraform Status check (Validate & Plan - No Out File)
 
-{{<figure library="true" src="azure-terraform/visualstudiocommit.png" title="Commit Visual Studio Code">}}
 
 ### Plan
 
