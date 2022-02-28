@@ -2,6 +2,7 @@
 title: Thijs Lindhout
 summary: 100% Inspiratie spreker
 tags:
+- People
 - Podcasts
 date: "2016-04-27T00:00:00Z"
 
