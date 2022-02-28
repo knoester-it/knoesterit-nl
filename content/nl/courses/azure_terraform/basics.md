@@ -1,13 +1,8 @@
 ---
 title: Pre-requisites
-linktitle: Pre-requisites
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: false
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
-
+date: '2021-01-01'
+type: book
+weight: 20
 ---
 
 Wat heb je nodig?
