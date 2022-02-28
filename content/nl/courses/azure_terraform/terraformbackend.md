@@ -33,3 +33,31 @@ Je hebt nu de repository geopend in {{<hl>}}Visual Studio Code{{</hl>}}
 | main.tf | Hier komt de basis condiguratie te staan | *** | 
 | variables.tf | De variabelen die je gebruikt | In dit geval de client-id, secret en tenant-id |
 | backend.tf | Hier geef je de backend op | In dit geval storage account, continaer en key | 
+
+De access key om bij het storage account te komen wordt d.m.v. azure key vault uitgelezen. Hierdoor staat het niet in de code die iedereen zou kunnen zien. Hoe je dit doet; wordt later uitgelegd.
+
+### Pas de bestanden waar nodig aan
+Ik heb de basis bestanden voorzien van de waarden die ik eerder heb aangegeven binnen deze blog.
+Als je eigen naamgevingen hebt gebruikt dan zul je deze ook moeten overnemen.
+
+Verder zijn er unieke waarden die aangepast dienen te worden, deze geef ik hieronder weer:
+- providers.tf > OWNSUBSCRIPTION-ID
+```t
+ terraform {
+   required_providers {
+     azurerm = {
+       source  = "hashicorp/azurerm"
+       version = "2.96.0"
+     }
+   }
+ }
+ 
+provider "azurerm" {
+  features {}
+  subscription_id = "OWNSUBSCRIPTION-ID"
+  client_id       = var.spn-client-id
+  client_secret   = var.spn-client-secret
+  tenant_id       = var.spn-tenant-id
+}
+```
+
