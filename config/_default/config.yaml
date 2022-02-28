@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Knoester-IT Solutions # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://knoester-it.nl' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -13,7 +13,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 
 defaultContentLanguage: nl
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
