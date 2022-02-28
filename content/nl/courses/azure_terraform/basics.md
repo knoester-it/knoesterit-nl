@@ -7,16 +7,15 @@ weight: 20
 
 Wat heb je nodig?
 
-<!--more-->
+| Accounts | Software | Extensions |
+|--|--|--|
+| [Azure](https://azure.microsoft.com/en-us/free/)  |  | |
+| [Azure DevOps](https://dev.azure.com/) |  | [Terraform DevOps](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.custom-terraform-tasks&targetId=28cd216d-8f99-46ef-ab8f-0e0f0ff6f999) |
+|  | [Visual studio code](https://code.visualstudio.com/) | [Terraform](https://code.visualstudio.com/docs/editor/extension-marketplace) | 
 
-## Accounts
 Heb je geen Azure subscription? <br>Meld je dan aan voor een [Azure free](https://azure.microsoft.com/en-us/free/) account.
 
-
-- [Azure DevOps](https://dev.azure.com/)
-- [Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.custom-terraform-tasks&targetId=28cd216d-8f99-46ef-ab8f-0e0f0ff6f999
-)
-
+Azure DevOps is gratis tot 5 gebruikers.
 
 
 ## Software
