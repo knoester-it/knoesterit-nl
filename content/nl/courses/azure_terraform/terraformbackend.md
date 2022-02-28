@@ -22,7 +22,7 @@ Nu je alle bendogide resources en configuraties hebt gedaan gaan we aan de slag 
 - Geef het pad op waar je wilt opslaan.
 
 Je hebt nu de repository geopend in {{<hl>}}Visual Studio Code{{</hl>}}
-{{<figure library="true" src="azure-terraform/visualstudio.png" title="isual Studio Code">}}
+{{<figure library="true" src="azure-terraform/visualstudio.png" title="Visual Studio Code">}}
 
 - Kopieer nu de bestanden uit |REPOSITORY VOORBEELD|
 
@@ -40,9 +40,9 @@ De access key om bij het storage account te komen wordt d.m.v. azure key vault u
 Ik heb de basis bestanden voorzien van de waarden die ik eerder heb aangegeven binnen deze blog.
 Als je eigen naamgevingen hebt gebruikt dan zul je deze ook moeten overnemen.
 
-Verder zijn er unieke waarden die aangepast dienen te worden, deze geef ik hieronder weer:
-- providers.tf > OWNSUBSCRIPTION-ID
-```t
+Verder is er een unieke waarde die aangepast dient te worden, deze geef ik hieronder weer:
+- providers.tf > OWNSUBSCRIPTION-ID > Vul hier je eigen subscription id in, deze staat [hier](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+```r
  terraform {
    required_providers {
      azurerm = {
@@ -61,3 +61,8 @@ provider "azurerm" {
 }
 ```
 
+### Upload de code naar Azure Repo
+Upload de code naar Azure DevOps door via Visual Studio Code > Source Control op Commit (vinkje) te klikken:
+{{<figure library="true" src="azure-terraform/visualstudiosync.png" title="Commit Visual Studio Code">}}
+
+Klik vervolgens op {{<hl>}}Sync Changes{{</hl>}} om het te uploaden naar DevOps.
