@@ -25,7 +25,7 @@ Uitgangspunt hier is dat er een HUB-SPOKE model is toegepast met geen publieke t
 ## Keuzes bij uitrol Azure SQL Database Server
 |Optie|Keuze|
 |--|--|
-| Plaatsing Azure SQL Database Server| Iedere applicatie een eigen Azure SQL Database Server (ook een ondersheid tussen pre-prod en prod) |
+| Plaatsing Azure SQL Database Server| Iedere applicatie een eigen Azure SQL Database Server (ook een ondersheid tussen non-prod en prod) |
 | Deny public network access | Yes |
 | Allow Azure services and resources to access this server | No |
 | TLS | 1.2 |
@@ -34,12 +34,12 @@ Uitgangspunt hier is dat er een HUB-SPOKE model is toegepast met geen publieke t
 | Backupredundancy | ZRS (d.m.v. [policies](https://docs.microsoft.com/en-us/azure/azure-sql/database/policy-reference)) |
 
 ### Plaatsing  Azure SQL SQL Database Server
-Standaard = Iedere applicatie een eigen SQL Database Server  (ook een ondersheid tussen pre-prod en prod)
+Standaard = Iedere applicatie een eigen SQL Database Server  (ook een ondersheid tussen non-prod en prod)
 Om Azure SQL databases uit te kunnen rollen dient er een SQL Database Server aanwezig te zijn (deze is gratis).
 
 {{<figure library="true" src="azure_sql/SQL Database server.PNG" title="Azure SQL Database Server">}}
 
-Per applicatie een eigen Azure SQL Database Server en per omgeving (pre-prod en prod).
+Per applicatie een eigen Azure SQL Database Server en per omgeving (non-prod en prod).
 Verwijderen van een applicatie en MsSQL onderdelen gaat makkelijk (wanneer je de resource group verwijdert; verwijder je ook de MsSQL omgeving).
 
 ### Deny public network access
@@ -74,7 +74,7 @@ If you are connecting from within Azure your connections have a connection polic
 ### Serverless / provisioned
 Standaard = Serverless
 
-Zeker bij een OTA (pre-prod) omgeving wordt er (nog)niet actief gebruik gemaakt van de omgeving. Wanneer de serverless  uitrol niet wordt gebruikt; dan staat deze gepauzeerd en kost het niks. Het overschakelen naar provisioned kan zonder problemen.
+Zeker bij een OT (non-prod) omgeving wordt er (nog)niet actief gebruik gemaakt van de omgeving. Wanneer de serverless  uitrol niet wordt gebruikt; dan staat deze gepauzeerd en kost het niks. Het overschakelen naar provisioned kan zonder problemen.
 
 Verschill ten opzichte van provisioned:
 [Serverless tier](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
