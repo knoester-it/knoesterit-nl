@@ -11,9 +11,10 @@ Waar bewaar je Crypto?
 
 Voordat je aan de slag gaat met wallets en Crypto is het belngrijk dat je eerst voor de volgende dingen zorgt:
 - Goede wachtwoordenkluis ([Dashlane](https://www.dashlane.com/cs/3nR2tPuig_tV), 1password of wat je fijn vind).
-- Authenticator app (Authy of Google Autenticator)
+- Authenticator app ([Authy](https://authy.com/) of Google Autenticator)
 Deze heb je nodig om wachtwoorden op te slaan en je Crypto goed te kunnen beveiliging.
 
+> Je bent je eigen bank met Crypto, dus je bent zelf verantwoordelijk voor de beveiliging en toegang tot je Crypto.
 
 Hieronder staan de verschillende soorten wallets beschreven.
 
