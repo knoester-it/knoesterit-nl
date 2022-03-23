@@ -18,13 +18,13 @@ Deze heb je nodig om wachtwoorden op te slaan en je Crypto goed te kunnen beveil
 
 Hieronder staan de verschillende soorten wallets beschreven.
 
-| Soort | Dient voor | Voorbeeld | Eigenaarscahp | 
+| Soort | Dient voor | Voorbeeld | Eigenaarschap | 
 |----|----|----|----|
-| Cold wallet | Opslag voor langere tijd en vaak grotere hoeveelheden | | Eigen beheer |
-| Hot wallet | Opslag net zoals cash in je portemonnee | | Eigen beheer |
-| Custodial | With additional features regarding sentiment | | | Wordt voor jou beheerd |
-| [Santiment](https://app.santiment.net/) | With additional features regarding sentiment | | |
-| [Santiment](https://app.santiment.net/) | With additional features regarding sentiment | | |
+| Hardware Wallet | Cold wallet. Opslag voor langere tijd en vaak grotere hoeveelheden | Ledger | Eigen beheer |
+| Mobile Wallet | Hot wallet. Opslag net zoals cash in je portemonnee | [Trust wallet](https://trustwallet.com/) | Eigen beheer |
+| Custodial | Eigenaarschap ligt bij aanbieder (Exchange) | Bitvavo, BitMy Money, enz. | Wordt voor jou beheerd |
+| Web3 Wallet | Via een web plugin | | |
+| Desktop Wallet | Geinstalleerd op je laptop/pc | | |
 
 In deze video wordt ook een goede uitleg gegeven:
 {{< youtube LFGdAeD9UCQ >}}
