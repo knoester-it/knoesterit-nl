@@ -11,7 +11,7 @@ Wat Is een Crypto Exchange?
 
 Er zijn verschillende exchanges die je kunt gebruiken.
 
-Hieronder staan er een paar die gebruik en betrouwbaar vind.
+Hieronder staan er een paar die ik gebruik en betrouwbaar vind.
 
 | Website | Comment | Voordelen/nadelen |
 |----|----|----|
