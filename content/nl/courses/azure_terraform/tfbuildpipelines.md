@@ -19,7 +19,7 @@ Volg deze stappen om de pipelines te importeren:
 - Ga in Azure DevOps naar {{<hl>}}Pipelines{{</hl>}} en klik op {{<hl>}}New pipeline{{</hl>}} of {{<hl>}}Create Pipeline{{</hl>}}
 {{<figure library="true" src="azure-terraform/pipelinecreate.png" title="Create Pipeline">}}
 
-{{<figure library="true" src="azure-terraform/releasepipelinejob.png" title="Create Empty Job">}}
+{{<figure library="true" src="azure-terraform/pipelinecreate.png" title="Create Empty Job">}}
 
 - Selecteer in dit geval  {{<hl>}}Azure Repos{{</hl>}} > De aangemaakt repo en kies voor {{<hl>}}Existing Azure Pipelines YAML file{{</hl>}}
 
