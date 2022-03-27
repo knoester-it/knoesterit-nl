@@ -121,7 +121,13 @@ publications:
   date_format: January 2006
   citation_style: apa
 projects:
-  post_view: 1
+# Configuration of project pages.
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  post_view: 3
   publication_view: 2
   talk_view: 2
 breadcrumb:
