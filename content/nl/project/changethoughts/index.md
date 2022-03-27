@@ -10,7 +10,8 @@ external_link: ""
 
 image:
   caption: Photo from https://amazon.com
-  focal_point: Smart
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: Center
 
 links:
 - icon: internet-explorer
