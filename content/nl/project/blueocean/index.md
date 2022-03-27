@@ -10,6 +10,7 @@ external_link: "https://www.blueoceanstrategy.com/"
 
 image:
   caption: Photo by https://www.blueoceanstrategy.com/
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Smart
 
 links:

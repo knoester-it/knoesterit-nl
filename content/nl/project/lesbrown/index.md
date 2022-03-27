@@ -11,6 +11,7 @@ external_link: ""
 
 image:
   caption: Photo from https://www.fearlessmotivation.com
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Smart
 
 links:

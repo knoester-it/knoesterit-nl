@@ -10,6 +10,7 @@ external_link: ""
 
 image:
   caption: Photo from http://www.pcw-hypnotherapyandcoaching.co.uk/dr-wayne-dyer-shift/
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Smart
 links:
 - icon: internet-explorer

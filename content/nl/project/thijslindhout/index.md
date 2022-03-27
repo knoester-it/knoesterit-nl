@@ -11,6 +11,7 @@ external_link: ""
 
 image:
   caption: Foto van https://thijslindhout.nl/
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: Smart
 
 links:
