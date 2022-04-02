@@ -24,7 +24,7 @@ image:
 ## What is Infrastructure as Code (IaC)?
 Infrastructure as Code (IaC) is making the configuration, management and provisioning of your infrastructure reproducible, scalable, easy to maintain and review, by using code. IaC has established itself as a de facto industry standard over the past few years. 
  
-For a long time we managed server manually in our data centers. Management tooling was available, but with the introduction of configuration management and Infrastructure as Code everything changed. By codifying your configuration specifications IaC is your single point of truth and documentation of your environment. Configuration files  contain infrastructure specifications, which makes it easier to edit and distribute configurations. It also ensures that you can repeatedly provision the same environment.
+For a long time we managed servers manually in our data centers. Management tooling was available, but with the introduction of configuration management and Infrastructure as Code everything changed. By codifying your configuration specifications IaC is your single point of truth and documentation of your environment. Configuration files  contain infrastructure specifications, which makes it easier to edit and distribute configurations. It also ensures that you can repeatedly provision the same environment.
  
 Today, most of the world’s infrastructure is being hosted in data centers owned by cloud providers. Infrastructure within these cloud providers consist of: Networks, (app)services, databases, load balancers, firewalls, cloud container platforms (Kubernetes), virtual machines, connection topology, etc. 
  
