@@ -1,5 +1,5 @@
 ---
-summary: Have you heard about it? ;) Infrastructure-as-Code (IaC) is not only a term, it is a shift to a complete ‘new’ way of working.
+summary: Have you heard about it? ;) Infrastructure-as-Code (IaC) is not only a term, it is a shift to a complete ‘new’ way of working with infrastructures.
 draft: false
 authors:
   - admin
@@ -21,12 +21,12 @@ image:
 ---
 ## Infrastructure-as-Code
 Have you heard about it? ;)
-Infrastructure-as-Code (IaC) is not only a term, it is a shift to a complete ‘new’ way of working.
+Infrastructure-as-Code (IaC) is not only a term, it is a shift to a complete ‘new’ way of working with infrastructures.
 
-## What is Infrastructure as Code (IaC)?
-Infrastructure as Code (IaC) is making configuration, management and provisioning of your infrastructure reproducible, scalable, easy to maintain and review, by using code. IaC has established itself as a de facto industry standard over the past few years. 
+## What is Infrastructure-as-Code (IaC)?
+Infrastructure-as-Code (IaC) is making configuration, management and provisioning of your infrastructure reproducible, scalable, easy to maintain and review, by using code. IaC has established itself as a de facto industry standard over the past few years. 
  
-For a long time we managed servers manually in our data centers. Management tooling was available, but with the introduction of configuration management and Infrastructure as Code everything changed. By codifying your configuration specifications IaC is your single point of truth and documentation for your environment. 
+For a long time we managed servers manually in our data centers. Management tooling was available, but with the introduction of configuration management and Infrastructure-as-Code everything changed. By codifying your configuration specifications IaC is your single point of truth and documentation for your environment. 
 
 Configuration files  contain infrastructure specifications, which makes it easier to edit and distribute configurations. It also ensures that you can repeatedly provision the same environment.
 
