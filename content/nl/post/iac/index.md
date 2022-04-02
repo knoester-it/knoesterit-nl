@@ -33,6 +33,6 @@ Configuration files  contain infrastructure specifications, which makes it easie
 {{<figure library="true" src="iac/iac.jpg" title="IaC">}}
 
 Today, most of the world’s infrastructure is being hosted in data centers owned by cloud providers. 
-Infrastructure within these cloud providers consist of: Networks, (app)services, databases, load balancers, firewalls, cloud container platforms (Kubernetes), virtual machines, connection topology, etc. 
+Infrastructure within these cloud providers consist of: Networks, (app)services, databases, load balancers, firewalls, cloud container platforms (Kubernetes), virtual machines, storage, connection topology, etc. 
  
 Cloud providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure, treat infrastructure as 'software'. Because of this realization the same approach for software development can be applied. So versioning, testing and reviewing is an important part of IaC. DevOps teams should use source control. When a change is required, one 'simply' opens up the Pull Request to a repository, goes through the review process, and then the changes will be eventually be applied to the cloud platform or platforms (hybrid cloud solution) of your choice.
