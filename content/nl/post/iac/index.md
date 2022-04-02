@@ -20,7 +20,7 @@ image:
   preview_only: true
 ---
 ## Infrastructure-as-Code
-
+{{<figure library="true" src="iac/iac.jpg" title="IaC">}}
 ## What is Infrastructure as Code (IaC)?
 Infrastructure as Code (IaC) is making the configuration, management and provisioning of your infrastructure reproducible, scalable, easy to maintain and review, by using code. IaC has established itself as a de facto industry standard over the past few years. 
  
