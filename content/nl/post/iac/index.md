@@ -1,7 +1,6 @@
 ---
 summary: Have you heard about it? ;)
 Infrastructure as Code (IaC) is not only a term, it is a shift to a complete ‘new’ way of working.
-
 draft: false
 authors:
   - admin
