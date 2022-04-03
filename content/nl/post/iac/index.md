@@ -52,7 +52,7 @@ This results in:
 
 ### Challenges
 - You need coders, if you don’t have this knowledge you need to learn to code;
-- This requires more knowledge of the engineers about the (cloud) infrastructure, services and way of working.
+- This requires more knowledge from the engineers about the (cloud) infrastructure, services and way of working.
 
 ## Whats next?
 In the next post(s) we will be discus deployment tools like:
