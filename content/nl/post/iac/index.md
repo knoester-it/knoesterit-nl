@@ -38,19 +38,25 @@ Cloud providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), 
 
 ## Why apply Infrastructure-as-Code (IaC)?
 
-| Benefits | Challenges |
-|----|----|
-| 1 | 2 | 
-
-## Whats next?
-In the next post(s) we will be looking at different tools for deployement like:
-- Terraform
-- ARM templates
-- Bicep
-- Ansible (AWX)
+### Benefits
 - 
 
-Different approaches and methods 
+### Challenges
+- 
+
+## Whats next?
+In the next post(s) we will be looking at tools for deployement like:
+- [Terraform](https://www.terraform.io/)
+- [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview)
+- [Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep)
+- [Ansible (AWX)](https://www.redhat.com/en/engage/delivery-with-ansible-20170906?)
+- [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+- Etc.
+
+Approaches, methods and architectures: 
 - Declarative 
 - Imperative
-
+- Cloud agnostic
+- Cloud native
+- Cloud enabled
+- Etc.
