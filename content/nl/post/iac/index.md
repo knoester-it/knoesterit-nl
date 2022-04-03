@@ -42,18 +42,17 @@ Cloud providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), 
 Using a DevOps style tool with source control when a change is required, one 'simply' opens up the Pull Request to a repository, goes through the review process, and then the changes will eventually be applied.
 
 This results in:
-- Configuration consistency (same code for non-prop and prod)
-- Infrastructure is reproducible (you can use same code for different workloads)
-- Scalability (adding additional services 1 or 10 makes no difference)
-- Easy to maintain and review
-- Accountability (you can view who made changes and ask why)
-- Speed
+- Configuration consistency (same code for non-prop and prod);
+- Infrastructure is reproducible (you can use same code for different workloads);
+- Scalability (adding additional services 1 or 10 makes no difference);
+- Easy to maintain and review;
+- Accountability (you can view who made changes and ask why);
+- Speed;
 - IaC is your single point of truth.
 
 ### Challenges
 - You need coders, if you don’t have this knowledge you need to learn to code;
 - This requires more knowledge of the engineers about the (cloud) infrastructure, services and way of working.
-
 
 ## Whats next?
 In the next post(s) we will be discus deployment tools like:
