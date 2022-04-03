@@ -41,3 +41,16 @@ Cloud providers such as Amazon Web Services (AWS), Google Cloud Platform (GCP), 
 | Benefits | Challenges |
 |----|----|
 | 1 | 2 | 
+
+## Whats next?
+In the next post(s) we will be looking at different tools for deployement like:
+- Terraform
+- ARM templates
+- Bicep
+- Ansible (AWX)
+- 
+
+Different approaches and methods 
+- Declarative 
+- Imperative
+
