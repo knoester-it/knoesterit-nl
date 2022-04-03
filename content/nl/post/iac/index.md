@@ -48,6 +48,7 @@ This results in:
 - Easy to maintain and review
 - Accountability (you can view who made changes and ask why)
 - Speed
+- IaC is your single point of truth.
 
 ### Challenges
 - 
