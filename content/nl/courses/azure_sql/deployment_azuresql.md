@@ -84,7 +84,7 @@ Kosten:
 
 ### Samenvatting van workflow voor geautomatiseerde uitrol:
 {{<figure library="true" src="azure_sql/wf-az-sql_new.PNG" title="Workflow geatuomatiseerde uitrol">}}
-[Link naar script - komt nog](https://knoester-it.online)
+[Link naar script - komt nog](https://knoester-it.netlify.app)
 
 ## Additionele informatie keuze public of private endpoint
 Azure Private Endpoint is a network interface that connects you privately and securely to a service powered by Azure Private Link. Private Endpoint uses a private IP address from your VNet, effectively bringing the service into your VNet. The service could be an Azure service such as Azure Storage, Azure Cosmos DB, SQL, etc. or your own Private Link Service.

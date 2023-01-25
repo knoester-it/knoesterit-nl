@@ -47,7 +47,7 @@ Ga in de Azure portal naar het storage account > klik op {{<hl>}}Access keys{{</
 
 Kopieer de keys en zet ze in key vault.
 
->Let op! Het is veiliger om te werken key rotation, meer info hierover in [Additional info](https://knoester-it.online/courses/azure-terraform/additional/)
+>Let op! Het is veiliger om te werken key rotation, meer info hierover in [Additional info](https://knoester-it.netlify.app/courses/azure-terraform/additional/)
 
 ## Access policies
 Om je Service connection rechten te geven op de secrets ga je de access policies aanpassen van de key vault.

@@ -117,7 +117,7 @@ experience:
 
   - title: Freelance IT Specialist
     company: Knoester-IT Solutions
-    company_url: 'https://knoester-it.online'
+    company_url: 'https://knoester-it.netlify.app'
     location: Ulvenhout
     date_start: '2014-07-01'
     date_end: ''

@@ -11,7 +11,7 @@ role: Consultant, General IT Specialist, DevOps Engineer & System Integrator
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: "@Knoester-IT Solutions"
-  url: https://knoester-it.online
+  url: https://knoester-it.netlify.app
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include Cloud, automation, infrastructure, migrations, connectivity, IT strategies, advice & work-life integration.
@@ -78,7 +78,7 @@ social:
   link: uploads/nl/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "robert@knoester-it.nl"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
