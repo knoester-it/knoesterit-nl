@@ -32,5 +32,6 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
   - name: "CV"
-    url: "uploads/nl/cv.pdf"
+    #url: "uploads/nl/cv.pdf"
+    url: "https://www.canva.com/design/DAGdsuzGWD0/WEkklJQ40b6l7hnenbiRcA/view?utm_content=DAGdsuzGWD0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hea0036f464"
     weight: 70
